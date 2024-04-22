@@ -111,6 +111,8 @@ else
  
  
  
+![image](https://github.com/22003264/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119389139/2019d982-8388-4ccb-9370-93ce465c9a45)
+
 
  
 ## Result :
